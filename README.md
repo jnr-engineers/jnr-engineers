@@ -3,7 +3,7 @@
 ## About Us
 Junior Engineers is a leading provider of digital technologies and robotics education in Australia, dedicated to nurturing the next generation of scientists, engineers, entrepreneurs, developers, and cyber-security leaders. Established in 2013, we spark a passion for learning and innovation among young minds, helping them build the foundational skills needed for success in STEM (Science, Technology, Engineering, Mathematics) fields.
 
-We provide **hands-on learning programs** year-round, catering to **primary and high school students** across Australia, both online and in-person. Our curriculum, designed by industry experts with over 25 years of experience in STEM education, empowers students to imagine, create, and develop — bringing digital creations like robots, video games, and wearable technology to life.
+We provide **hands-on learning programs** year-round, catering to **primary and high school students** across Australia, both online and in-person. Our curriculum, designed by instructors who are actively shaping the industry, evolves with emerging technologies and educational advancements. With expertise gained from real-world experience, our educators empower students to imagine, create, and develop—bringing digital creations like robots, video games, and wearable technology to life.
 
 ## Our Mission
 
