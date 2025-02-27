@@ -1,7 +1,5 @@
-# Junior Engineers - Empowering the Innovators of Tomorrow
-
+# Empowering the Innovators of Tomorrow
 ---
-
 ## About Us
 Junior Engineers is a leading provider of digital technologies and robotics education in Australia, dedicated to nurturing the next generation of scientists, engineers, entrepreneurs, developers, and cyber-security leaders. Established in 2013, we spark a passion for learning and innovation among young minds, helping them build the foundational skills needed for success in STEM (Science, Technology, Engineering, Mathematics) fields.
 
