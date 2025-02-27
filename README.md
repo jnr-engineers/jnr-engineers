@@ -7,7 +7,7 @@ We provide **hands-on learning programs** year-round, catering to **primary and 
 
 ## Our Mission
 
-We believe that learning to code at an early age is essential in developing problem-solving skills and creativity, while setting students up for success in future careers. Junior Engineers is one of the **first organizations** in Australia to offer digital technologies education for children. We are committed to fostering a growth mindset, encouraging **innovation**, and inspiring our students to dream big and reach their full potential.
+We believe that learning to code at an early age is essential in developing problem-solving skills and creativity, while setting students up for success in future careers. Junior Engineers is one of the **leading organisations** in Australia to offer digital technologies education for children. We are committed to fostering a growth mindset, encouraging **innovation**, and inspiring our students to dream big and reach their full potential.
 
 ## What We Do
 
